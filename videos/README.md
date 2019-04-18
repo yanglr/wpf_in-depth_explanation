@@ -29,21 +29,21 @@
 
 ## 第四章 x名称空间详解
 
-　　1. x名称空间里都有什么【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
-　　2. x名称空间中的Attribute
-　　　　2.1 x:Class【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
-　　　　2.2 x: ClassModifier【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
-　　　　2.3 x: Name【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
-　　　　2.4 x:FieldModifier【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
-　　　　2.5 x:Key
-　　　　2.6 x:Shared
-　　3. x名称空间中的标记扩展
-　　　　3.1 x:Type
-　　　　3.2 x:Null
-　　　　3.3 标记扩展实例的两种声明语法
-　　　　3.4 x:Array
-　　　　3.5 x:Static
-　　4. XAML指令元素
+* x名称空间里都有什么【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
+* x名称空间中的Attribute
+    * x:Class【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
+    * x: ClassModifier【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
+    * x: Name【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
+    * x:FieldModifier【<http://www.cnblogs.com/prism/archive/2010/09/13/1824789.html>】
+    * x:Key
+    * x:Shared
+* x名称空间中的标记扩展
+    * x:Type
+    * x:Null
+    * 标记扩展实例的两种声明语法
+    * x:Array
+    * x:Static
+* XAML指令元素
 
 ## 第五章 控件与布局
 
