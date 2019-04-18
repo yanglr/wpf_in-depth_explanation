@@ -1,0 +1,36 @@
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\bin\Debug\Data\Data.xml
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\bin\Debug\CrazyElephant.Client.exe
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\bin\Debug\CrazyElephant.Client.pdb
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\MainWindow.baml
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\App.g.cs
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client_Content.g.cs
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client_MarkupCompile.cache
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.g.resources
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.Properties.Resources.resources
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.exe
+C:\Users\timliu\Documents\Visual Studio 2010\Projects\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.pdb
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\bin\Debug\Data\Data.xml
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\bin\Debug\CrazyElephant.Client.exe
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\bin\Debug\CrazyElephant.Client.pdb
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.csprojAssemblyReference.cache
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\App.g.cs
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client_Content.g.cs
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client_MarkupCompile.cache
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.g.resources
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.Properties.Resources.resources
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.csproj.GenerateResource.cache
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.csproj.CopyComplete
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.exe
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\CrazyElephant\CrazyElephant.Client\obj\x86\Debug\CrazyElephant.Client.pdb

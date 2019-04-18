@@ -1,0 +1,26 @@
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\bin\Debug\SimpleMvvmDemo.Client.exe
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\bin\Debug\SimpleMvvmDemo.Client.pdb
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\MainWindow.baml
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\MainWindow.g.cs
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\App.g.cs
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client_MarkupCompile.cache
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.g.resources
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.Properties.Resources.resources
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.exe
+c:\users\timliu\documents\visual studio 2010\Projects\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.pdb
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\bin\Debug\SimpleMvvmDemo.Client.exe
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\bin\Debug\SimpleMvvmDemo.Client.pdb
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.csprojAssemblyReference.cache
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\App.g.cs
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client_MarkupCompile.cache
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.g.resources
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.Properties.Resources.resources
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.csproj.GenerateResource.cache
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.exe
+C:\Users\Bruce\Desktop\MVVM入门与提高_Source\SimpleMvvmDemo\SimpleMvvmDemo.Client\obj\x86\Debug\SimpleMvvmDemo.Client.pdb

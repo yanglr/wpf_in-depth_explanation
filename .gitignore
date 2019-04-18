@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/WPF-Samples/MVVM-TimLiu/SimpleMvvmDemo/.vs/SimpleMvvmDemo/v16/Server/sqlite3/storage.ide-wal
+/WPF-Samples/MVVM-TimLiu/SimpleMvvmDemo/.vs/SimpleMvvmDemo/v16/Server/sqlite3/storage.ide-shm
+/WPF-Samples/MVVM-TimLiu/SimpleMvvmDemo/.vs/SimpleMvvmDemo/v16/Server/sqlite3/storage.ide
+/WPF-Samples/MVVM-TimLiu/SimpleMvvmDemo/.vs/SimpleMvvmDemo/v16/Server/sqlite3/db.lock
