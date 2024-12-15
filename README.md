@@ -4,4 +4,4 @@
 
 <br/>
 
-欢迎访问作者的个人网站: [极客玩家](https://geekplayers.com)
+欢迎访问作者的个人网站: [极客玩家](https://yanglr.github.io/)
